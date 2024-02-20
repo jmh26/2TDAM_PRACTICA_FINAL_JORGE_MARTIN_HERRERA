@@ -1,0 +1,90 @@
+{
+  "Tienda": {
+    "Cartas": {
+      "-Nr1biRFM9B3XUfLXCM0": {
+        "categoria": "Blanco",
+        "id": "-Nr1biRFM9B3XUfLXCM0",
+        "imagen": "https://firebasestorage.googleapis.com/v0/b/magifinal-262bd.appspot.com/o/Cartas%2FFotos%2F-Nr1biRFM9B3XUfLXCM0?alt=media&token=90530019-d808-41e1-ac90-75abbd0e3877",
+        "nombre": "asasa",
+        "precio": "32",
+        "stock": "20"
+      }
+    },
+    "Eventos": {
+      "-Nr6oLCppvytDgT1bUjY": {
+        "aforo_actual": "0",
+        "aforo_max": "23",
+        "estado": "no apuntado",
+        "fecha": "06/05/2024",
+        "id": "-Nr6oLCppvytDgT1bUjY",
+        "imagen": "https://firebasestorage.googleapis.com/v0/b/magifinal-262bd.appspot.com/o/Eventos%2FFotos%2F-Nr6oLCppvytDgT1bUjY?alt=media&token=43769350-cba4-40f8-b0d0-b0ce78b13827",
+        "nombre": "asasa",
+        "precio": "22"
+      }
+    },
+    "Usuarios": {
+      "BoSDqk9udiWcMhG1lPVeAlvcsjr2": {
+        "contrasena": "holaquetal",
+        "correo": "jorge@gmail.com",
+        "id": "BoSDqk9udiWcMhG1lPVeAlvcsjr2",
+        "tipo": "usuario"
+      },
+      "hhLOYbjedWafiALB1JHMC3qzuYi2": {
+        "contrasena": "administrador",
+        "correo": "administrador@gmail.com",
+        "id": "hhLOYbjedWafiALB1JHMC3qzuYi2",
+        "tipo": "administrador"
+      }
+    },
+    "reservas_carta": {
+      "-Nr1bn9FdDdhMlZ19mtH": {
+        "cartaID": "-Nr1biRFM9B3XUfLXCM0",
+        "clienteID": "BoSDqk9udiWcMhG1lPVeAlvcsjr2",
+        "estado": "Preparado",
+        "id": "-Nr1bn9FdDdhMlZ19mtH",
+        "imagen": "https://firebasestorage.googleapis.com/v0/b/magifinal-262bd.appspot.com/o/Cartas%2FFotos%2F-Nr1biRFM9B3XUfLXCM0?alt=media&token=90530019-d808-41e1-ac90-75abbd0e3877",
+        "nombre": "asasa",
+        "precio": "32",
+        "stability": 0
+      },
+      "-Nr6JBRPwgMH_QwlXj6N": {
+        "cartaID": "-Nr1biRFM9B3XUfLXCM0",
+        "clienteID": "BoSDqk9udiWcMhG1lPVeAlvcsjr2",
+        "estado": "en preparación",
+        "id": "-Nr6JBRPwgMH_QwlXj6N",
+        "imagen": "https://firebasestorage.googleapis.com/v0/b/magifinal-262bd.appspot.com/o/Cartas%2FFotos%2F-Nr1biRFM9B3XUfLXCM0?alt=media&token=90530019-d808-41e1-ac90-75abbd0e3877",
+        "nombre": "asasa",
+        "precio": "32"
+      },
+      "-Nr6JBZGDhmw4Kj0-ngd": {
+        "cartaID": "-Nr1biRFM9B3XUfLXCM0",
+        "clienteID": "BoSDqk9udiWcMhG1lPVeAlvcsjr2",
+        "estado": "en preparación",
+        "id": "-Nr6JBZGDhmw4Kj0-ngd",
+        "imagen": "https://firebasestorage.googleapis.com/v0/b/magifinal-262bd.appspot.com/o/Cartas%2FFotos%2F-Nr1biRFM9B3XUfLXCM0?alt=media&token=90530019-d808-41e1-ac90-75abbd0e3877",
+        "nombre": "asasa",
+        "precio": "32"
+      }
+    },
+    "reservas_eventos": {
+      "-Nr1KrNC4Q2CYVZmnmty": {
+        "BoSDqk9udiWcMhG1lPVeAlvcsjr2": {
+          "eventoID": "BoSDqk9udiWcMhG1lPVeAlvcsjr2",
+          "id": "-Nr1KrNC4Q2CYVZmnmty",
+          "stability": 0
+        },
+        "aforo_actual": "1",
+        "estado": "apuntado"
+      },
+      "-Nr1aTqdFTT5TUW6gtGl": {
+        "BoSDqk9udiWcMhG1lPVeAlvcsjr2": {
+          "eventoID": "BoSDqk9udiWcMhG1lPVeAlvcsjr2",
+          "id": "-Nr1aTqdFTT5TUW6gtGl",
+          "stability": 0
+        },
+        "aforo_actual": "1",
+        "estado": "apuntado"
+      }
+    }
+  }
+}
